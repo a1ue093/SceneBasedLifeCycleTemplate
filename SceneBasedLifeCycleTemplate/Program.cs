@@ -1,6 +1,4 @@
-﻿using Foundation;
-using System;
-using UIKit;
+﻿using UIKit;
 
 namespace SceneBasedLifeCycleTemplate
 {
